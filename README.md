@@ -54,7 +54,7 @@ This is a more exciting feature. The steps was inspired by a related [tutorial](
 6. You will receive a confirmation code send by `University of Maryland Team`. Enter the confirmation code and proceed. Notice, you might need to make sure your `id@umd.edu` can receive email so that you can receive the confirmation code.
 
 
-7. After the success,  choose `id@umd.edu` as `default` under `Setting -> Account -> Send mail as`. 
+7. After the success,  choose `id@umd.edu` as `default` under `Settings -> Account -> Send mail as`. 
 
     ![Image3 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/5.png)
   
