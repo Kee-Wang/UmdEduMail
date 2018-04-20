@@ -4,21 +4,23 @@ A simple tutorial on how to use @umd.edu to send and receive email.
 New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which looks long and un-professional. However, you CAN actually using `id@umd.edu` to send and receive email. The steps I provide below works for me, it you are stuck at certain step, please feel free to tell me at keewang@umd.edu.
 
 
-# Use `id@umd.edu` as recepient. 使用`id@umd.edu`作为收件地址
+# Use `id@umd.edu` as recepient
 
 Here is already a nice [tutorial](https://umd.service-now.com/itsc?id=kb_article&sys_id=eea6516337a8420041271f9543990ec4) at schoool website. All you need to do is to log-in testudo.umd.edu and change the  email in `contact information` into `id@terpmail.umd.edu`. You will have to wait for at least 2 hours for it to take effect.
 
-只要在 testudo.umd.edu 里面contact information Email改成`id@terpmail.umd.edu`就行了， 每个人就自动有个`id@umd.edu`。 别人发给你的`id@umd.edu`就能自动转到你的terpmail里面。这个大概需要花两个小时才生效。
 
 
-# Use `id@umd.edu` as sender. 使用id@umd.edu作为发件地址
+# Use `id@umd.edu` as sender
 
-1. Log-in the terpmail and selet setting on the right. 登录web版本terpmail在右边齿轮选择设置:
+This is more exciting feature. The steps was inspired by a related [tutorial](https://help.eng.umd.edu/helpdesk/File/Get/5133820).
+
+
+1. Log-in the [terpmail](http://mail.terpmail.umd.edu) on website and select `setting` on the right. 
 
     ![Image1 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/1.png)
 
 
-2. Go to `Accounts`. 进入 `Accounts`
+2. Enter `Accounts`
 
     ![Image1 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/2.png)
     
