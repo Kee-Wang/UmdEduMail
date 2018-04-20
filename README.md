@@ -1,26 +1,29 @@
-# UmdEduMail
-A simple tutorial on how to use @umd.edu to send email
+# Purpose
+A simple tutorial on how to use @umd.edu to send and receive email.
 
-新生一般设置的邮箱是id@terpmail.umd.edu，看其来很长还不专业，但是可以通过一些步骤能够让你收发都用id@umd.edu看起来简洁且专业多了。本文经过实际操作，但是不保证对所有人都有效，如果有遗漏步骤之类的还请指正。
-
-# 使用id@umd.edu作为收件地址
-
-作为收件地址：只要在 testudo.umd.edu 里面contact information Email改成id@terpmail.umd.edu就行了， 每个人就自动有个id@umd.edu。 别人发给你的id@umd.edu就能自动转到你的terpmail里面。
+New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which looks long and un-professional. However, you CAN actually using `id@umd.edu` to send and receive email. The steps I provide below works for me, it you are stuck at certain step, please feel free to tell me at keewang@umd.edu.
 
 
-# 使用id@umd.edu作为发件地址
+# Use `id@umd.edu` as recepient. 使用`id@umd.edu`作为收件地址
 
-1. 登录web版本terpmail在右边齿轮选择设置:
+Here is already a nice [tutorial](https://umd.service-now.com/itsc?id=kb_article&sys_id=eea6516337a8420041271f9543990ec4) at schoool website. All you need to do is to log-in testudo.umd.edu and change the  email in `contact information` into `id@terpmail.umd.edu`. You will have to wait for at least 2 hours for it to take effect.
 
-    ![Image1 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/1.png)
+只要在 testudo.umd.edu 里面contact information Email改成`id@terpmail.umd.edu`就行了， 每个人就自动有个`id@umd.edu`。 别人发给你的`id@umd.edu`就能自动转到你的terpmail里面。这个大概需要花两个小时才生效。
 
 
-2. 进入Accounts
+# Use `id@umd.edu` as sender. 使用id@umd.edu作为发件地址
+
+1. Log-in the terpmail and selet setting on the right. 登录web版本terpmail在右边齿轮选择设置:
 
     ![Image1 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/1.png)
+
+
+2. Go to `Accounts`. 进入 `Accounts`
+
+    ![Image1 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/2.png)
     
     
-3. 在Send mail as 选项里添加 "Add another email address"，注意不是右边的edit info 而是底下的“add another email address”.下图中我因为已经添加过umd.edu的邮箱所以有显示id@umd.edu，第一次设置的时候应该只有id@terpmail.umd.edu.
+3. Select `Add another email address` under `Send mail as`. 在`Send mail as` 选项里添加 `Add another email address`，注意不是右边的 `edit info` 而是底下的 `add another email address`.下图中我因为已经添加过 `id@umd.edu` 的邮箱所以有显示`id@umd.edu`，但是你第一次设置的时候应该只有`id@terpmail.umd.edu`.
 
     ![Image3 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/3.png)
   
