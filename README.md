@@ -8,11 +8,13 @@ New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which l
 
 * Here is already a nice [tutorial](https://umd.service-now.com/itsc?id=kb_article&sys_id=eea6516337a8420041271f9543990ec4) at schoool website. 
 
-* All you need to do is to log-in testudo.umd.edu and change the  email in `contact information` into `id@terpmail.umd.edu`. 
+* All you need to do is to log-in [testudo.umd.edu](testudo.umd.edu) and change the  email in `contact information` into `id@terpmail.umd.edu`. 
 
 * You will have to wait for at least 2 hours for it to take effect. 
 
-* Please test by sending `id@umd.edu` using other emails. You might need to be able to receive from `id@umd.edu` to be able to send as `id@umd.edu`.
+* Please test by sending `id@umd.edu` using other emails. 
+
+* You might need make sure you can receive from `id@umd.edu` before being able to send as `id@umd.edu`.
 
 
 
@@ -21,7 +23,7 @@ New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which l
 This is a more exciting feature. The steps was inspired by a related [tutorial](https://help.eng.umd.edu/helpdesk/File/Get/5133820).
 
 
-1. Log-in the [terpmail](http://mail.terpmail.umd.edu) on website and select `setting` on the right. 
+1. Log-in the [terpmail](http://mail.terpmail.umd.edu) on website and select `Settinge` on the right. 
 
     ![Image1 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/1.png)
 
@@ -43,11 +45,11 @@ This is a more exciting feature. The steps was inspired by a related [tutorial](
   
   
 5. There are several settings.
-    * SMTP Server: smtp.gmail.com
-    * Port: 465
+    * SMTP Server: `smtp.gmail.com`
+    * Port: `465`
     * Username: `id@terpmail.umd.edu`
 
-    You might see `Authentication failed. Please check your username/password and Less Secure Apps access for id@terpmail.umd.edu`. If you are absolutely sure your entered the correcet account/password combination, then it might be you have to authorize for `less secure apps`. So click on the hyperlink and follow the instruction.
+    You might see failure saying `Authentication failed. Please check your username/password and Less Secure Apps access for id@terpmail.umd.edu`. If you are absolutely sure your entered the correcet account/password combination, then it might be you have to authorize for `less secure apps`. So click on the hyperlink and follow the instruction.
 
 6. You will receive a confirmation code send by `University of Maryland Team`. Enter the confirmation code and proceed. Notice, you might need to make sure your `id@umd.edu` can receive email so that you can receive the confirmation code.
 
