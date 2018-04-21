@@ -1,14 +1,17 @@
 # Purpose
 A simple tutorial to show how to use @umd.edu to send and receive email.
 
-New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which looks long and un-professional. However, you CAN actually using `id@umd.edu` to send and receive email. The steps I provide below works for me, it you are stuck at certain step, please feel free to tell me at keewang@umd.edu.
+New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which looks long and un-professional. However, you CAN actually using `id@umd.edu` to send and receive email. The steps I provide below works for me, it you are stuck at certain step, please feel free to tell me at keewang@umd.edu. 
+
+**You will need to be able to access your `id@terpmail.edu` before performing any of following steps. See  [terpmail](http://mail.terpmail.umd.edu) for guidance.**
 
 
 # Receive email using `id@umd.edu` 
 
+
 * Here is already a nice [tutorial](https://umd.service-now.com/itsc?id=kb_article&sys_id=eea6516337a8420041271f9543990ec4) at schoool website. 
 
-* All you need to do is to log-in [testudo.umd.edu](testudo.umd.edu) and change the  email in `contact information` into `id@terpmail.umd.edu`. 
+* All you need to do is to log-in [testudo.umd.edu](http://www.testudo.umd.edu) and change the  email in `contact information` into `id@terpmail.umd.edu`. For first time users, you will find that the email listed in the `contact information` is the one you used for application.
 
 * You will have to wait for at least 2 hours for it to take effect. 
 
