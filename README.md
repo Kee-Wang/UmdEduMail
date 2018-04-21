@@ -12,7 +12,7 @@ New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which l
 
 * Here is already a nice [tutorial](https://umd.service-now.com/itsc?id=kb_article&sys_id=eea6516337a8420041271f9543990ec4) at schoool website. 
 
-* All you need to do is to log-in [testudo.umd.edu](http://www.testudo.umd.edu) and change the  email in `contact information` into `id@terpmail.umd.edu`. For first time users, you will find that the email listed in the `contact information` is the one you used for application.
+* All you need to do is to log-in [testudo.umd.edu](http://www.testudo.umd.edu) --> go to `change address/email` -->  go to `contact information` --> change your application email into your `id@terpmail.umd.edu`. 
 
 * You will have to wait for at least 2 hours for it to take effect. 
 
