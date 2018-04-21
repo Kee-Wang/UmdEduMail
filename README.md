@@ -38,7 +38,7 @@ This is a more exciting feature. The steps was inspired by a related [tutorial](
     ![Image3 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/3.png)
   
   
-4. Enter your name and `id@umd.edu`. Unselect `treat as an alias`.
+4. Enter your name and `id@umd.edu`. Unselect `treat as an alias`. Proceed to next step.
 
     ![Image3 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/4.png)
   
@@ -49,7 +49,7 @@ This is a more exciting feature. The steps was inspired by a related [tutorial](
     * Port: `465`
     * Username: `id@terpmail.umd.edu`
 
-    You might see failure saying `Authentication failed. Please check your username/password and Less Secure Apps access for id@terpmail.umd.edu`. If you are absolutely sure your entered the correcet account/password combination, then it might be you have to authorize for `less secure apps`. So click on the hyperlink and follow the instruction.
+    You might see failure saying `Authentication failed. Please check your username/password and Less Secure Apps access for id@terpmail.umd.edu`. If you are absolutely sure you entered the correcet account/password combination, then it might be you have to authorize for `less secure apps`. So click on the hyperlink and follow the instruction. Proceed.
 
 6. You will receive a confirmation code send by `University of Maryland Team`. Enter the confirmation code and proceed. Notice, you might need to make sure your `id@umd.edu` can receive email so that you can receive the confirmation code.
 
