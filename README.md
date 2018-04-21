@@ -8,6 +8,7 @@ New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which l
 
 # Receive email using `id@umd.edu` 
 
+* Make sure you have access to `id@terpmail.umd.edu` before proceeding.
 
 * Here is already a nice [tutorial](https://umd.service-now.com/itsc?id=kb_article&sys_id=eea6516337a8420041271f9543990ec4) at schoool website. 
 
@@ -24,6 +25,8 @@ New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which l
 # Send email using `id@umd.edu`
 
 This is a more exciting feature. The steps was inspired by a related [tutorial](https://help.eng.umd.edu/helpdesk/File/Get/5133820).
+
+**Makre sure you can _receive_ email using `id@umd.edu` before proceeding.**
 
 
 1. Log-in the [terpmail](http://mail.terpmail.umd.edu) on website and select `Settinge` on the right. 
