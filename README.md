@@ -29,7 +29,7 @@ This is a more exciting feature. The steps was inspired by a related [tutorial](
 **Makre sure you can _receive_ email using `id@umd.edu` before proceeding.**
 
 
-1. Log-in the [terpmail](http://mail.terpmail.umd.edu) on website and select `Settinge` on the right. 
+1. Log-in the [terpmail](http://mail.terpmail.umd.edu) on website and select `Settings` on the right. 
 
     ![Image1 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/1.png)
 
