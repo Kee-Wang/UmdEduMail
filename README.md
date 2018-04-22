@@ -1,7 +1,7 @@
 # Purpose
 A simple tutorial to show how to use `id@umd.edu` to send and receive email.
 
-New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which looks long and un-professional. However, you CAN actually using `id@umd.edu` to send and receive email. The steps I provide below works for me, it you are stuck at certain step, please feel free to tell me at keewang@umd.edu. 
+New students of UMD are initialized with a  `id@terpmail.umd.edu` email, which looks long and un-professional. However, you CAN actually using `id@umd.edu` to send and receive email. The steps I provide below works for me, if you are stuck at certain step, please feel free to tell me at `keewang@umd.edu`. 
 
 **You will need to be able to access your `id@terpmail.umd.edu` before performing any of following steps. See  [terpmail](http://mail.terpmail.umd.edu) for guidance.**
 
