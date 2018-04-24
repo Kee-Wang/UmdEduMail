@@ -69,5 +69,6 @@ This is a more exciting feature. The steps was inspired by a related [tutorial](
     ![Image3 of Tutorial](https://github.com/Kee-Wang/UmdEduMail/blob/master/iamges/6.png)
   
 
+# Settings for iOS `Mail`
 
-
+In order to receive email using `Mail` app in iOS, you might need to enter `id@terpmail.umd.edu` when requried, since `terpmail.umd.edu` is the acutally email provider.
